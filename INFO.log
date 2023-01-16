@@ -1,0 +1,385 @@
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:07:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:07:27] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:07:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:08:03] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:08:03] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:12:19] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:12:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:16:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:16:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:16:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:16:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 21:18:39] "[33mGET /hall_page.html HTTP/1.1[0m" 404 -
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:01:20] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:01:22] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:01:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: '1591087144_6.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: '1591087144_6.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "1591087144_6.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:01:28] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:01:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\super\\Desktop\\Web-Service-website\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:04:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:04:09] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:04:11] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:04:11] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: '1591087144_6.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: '1591087144_6.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "1591087144_6.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:04:15] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:04:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:06:16] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:06:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\super\\Desktop\\Web-Service-website\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:40] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:41] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:42] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:45] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:49] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:08:49] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\super\\Desktop\\Web-Service-website\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:28] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:29] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_3.jpg" with class "jpg"
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:32] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:32] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:34] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:12:35] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\super\\Desktop\\Web-Service-website\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:13:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:13:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:03] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:04] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_3.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (200, 260)
+INFO:NN_flask:Starting analise image...
+DEBUG:h5py._conv:Creating converter from 3 to 5
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:14] "[35m[1mPOST /analise/image HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:14] "GET /analise/image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:14] "GET /analise/image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:14] "GET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:14] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\super\\Desktop\\Web-Service-website\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:14:59] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:15:01] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:15:01] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_3.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_3.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_3.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+DEBUG:h5py._conv:Creating converter from 3 to 5
+INFO:NN_flask:Return on web-client predictions:  8, [0.   0.   0.   0.   0.   0.   0.   0.98 0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:15:15] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:15:15] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:16:53] "[36mGET /analise/image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:16:54] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:19:14] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:19:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:33:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:33:12] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:33:14] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:33:14] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:33:18] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:29] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:31] "GET /style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:37] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:58] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:34:58] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:35:13] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:35:13] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:38:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:38:37] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:38:38] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:38:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+WARNING:tensorflow:5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000027289583880> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:38:51] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:38:51] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:39:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:39:16] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:39:17] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:39:17] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+WARNING:tensorflow:6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x00000272813CC3A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:39:30] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:39:30] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:21] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:21] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:22] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:23] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:24] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:38] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:38] "[33mGET /analise/img HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:42:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:43] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:44] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:44] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_10.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_10.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_10.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  5, [0.   0.   0.   0.   0.99 0.   0.   0.   0.   0.   0.   0.   0.   0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:57] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:57] "[33mGET /analise/img HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:44:57] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:45:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:45:07] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:46:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:46:24] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:46:25] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:46:25] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:50:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:50:36] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:50:38] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:50:38] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:NN_flask:Request image and analise this...
+INFO:NN_flask:ImmutableMultiDict([('img', <FileStorage: 'Image_65.jpg' ('image/jpeg')>)])
+INFO:NN_flask:<FileStorage: 'Image_65.jpg' ('image/jpeg')>
+INFO:NN_flask:class <class 'werkzeug.datastructures.FileStorage'>
+INFO:NN_flask:Upload image "Image_65.jpg" with class "jpg"
+INFO:NN_flask:Starting preprocess image...
+INFO:NN_flask:size = (260, 200)
+INFO:NN_flask:Starting analise image...
+INFO:NN_flask:Return on web-client predictions:  13, [0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.   0.99 0.
+ 0.  ]
+INFO:NN_flask:Ending.
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:51:26] "POST /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:51:26] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:52:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:52:08] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:52:46] "GET /analise/image HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:52:46] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:52:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2023 23:52:47] "[36mGET /style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\super\\Desktop\\Web-Service-website\\FLASK_SITE\\configs.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:NN_flask:-----------------
+INFO:NN_flask:Starting...
+INFO:NN_flask:GPU device not found
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-315-401
